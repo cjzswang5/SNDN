@@ -18,13 +18,11 @@ Datasets:
     You can create colored hazy images with create_haze_image.py
 
 ---
+My pre-trained models can be download at
+https://drive.google.com/file/d/1BG5BJSdelVBntblQAKf6SK7DV0aW5k7o/view?usp=sharing
+
+---
 The design of our network referenced DCPDN, AOD-Net and Non-local Block:
     DCPDN:              https://github.com/hezhangsprinter/DCPDN
     AOD-Net:            https://github.com/Boyiliee/AOD-Net
     Non-lcaol Block:    https://github.com/AlexHex7/Non-local_pytorch
-
----
-My pre-trained models can be download at
-https://drive.google.com/file/d/1BG5BJSdelVBntblQAKf6SK7DV0aW5k7o/view?usp=sharing
-
-
